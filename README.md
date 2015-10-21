@@ -5,12 +5,12 @@ To use:
 
 1. Git clone this repository
 
-        `git clone https://github.com/IoThingies/simulators.git`
+        git clone https://github.com/IoThingies/simulators.git
         
 2. Run npm install to get dependencies
 
-        `npm install`
+        npm install
         
 3. Run the simulator using node (I assume you have it installed)
 
-        `node iothingies-device-sim.js`
+        node iothingies-device-sim.js
